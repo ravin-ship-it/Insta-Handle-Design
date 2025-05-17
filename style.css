@@ -24,7 +24,6 @@ body {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    /* border: 2px solid purple; */
 }
 
 .p-pic {
@@ -37,12 +36,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* border: 2px solid lightgreen; */
 }
 
 .p-pic img {
     width: 100%;
-    /* filter: opacity(0.3); */
     display: block;
     position: absolute;
 }
