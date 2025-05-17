@@ -1,2 +1,5 @@
 # Insta-Handle-Design
-Handle design for instagram posts
+A very simple design for Instagram handle
+
+## Features
+- Follow button
